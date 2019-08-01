@@ -1,5 +1,5 @@
 # Tensorflow Study Example
-내꺼~~~
+내꺼~~~     saneya
 # Version Info
 * Python3.6
 * Tensorflow1.10
